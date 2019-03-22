@@ -1,0 +1,3 @@
+com/bkw/hotfix/BaseActivity.class
+com/bkw/hotfix/BaseApplication.class
+com/bkw/hotfix/MainActivity.class
